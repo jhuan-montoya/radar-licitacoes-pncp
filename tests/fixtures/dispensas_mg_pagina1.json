@@ -1,0 +1,357 @@
+{
+ "data": [
+  {
+   "orgaoEntidade": {
+    "cnpj": "17217332000125",
+    "razaoSocial": "INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO ESTADO MG",
+    "poderId": "E",
+    "esferaId": "E"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Belo Horizonte",
+    "codigoIbge": "3106200",
+    "codigoUnidade": "2012015",
+    "nomeUnidade": "GEASU-DEAC"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 70,
+   "numeroControlePNCP": "17217332000125-1-000070/2026",
+   "objetoCompra": "Prestação de serviços de entidade certificadora, devidamente credenciada junto à Secretaria de Previdência (SPREV), para a obtenção da certificação institucional do RPPS.",
+   "valorTotalEstimado": 16850.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-07-24T09:51:53",
+   "dataEncerramentoProposta": "2026-07-30T08:00:33",
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "18398974000130",
+    "razaoSocial": "MUNICIPIO DE NANUQUE",
+    "poderId": "N",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Nanuque",
+    "codigoUnidade": "18398974000130-001",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE NANUQUE",
+    "codigoIbge": "3144300"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 78,
+   "numeroControlePNCP": "18398974000130-1-000078/2026",
+   "objetoCompra": "REFERE-SE A CONTRATAÇAO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE SINALIZAÇÃO HORIZONTAL COM PLASTICO A FRIO TRICOMPONENTE TIPO I - ABNT NBR 15870 NO MUNICIPIO DE NANUQUE - MG",
+   "valorTotalEstimado": 128787.4,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-08-18T16:45:52",
+   "dataEncerramentoProposta": "2026-07-09T14:00:00",
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, I"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "17819061000188",
+    "razaoSocial": "SUPERINTENDENCIA DE AGUA E ESGOTOS DE ITUIUTABA",
+    "poderId": "E",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Ituiutaba",
+    "nomeUnidade": "SUPERINTENDÊNCIA DE ÁGUA E ESGOTOS DE ITUIUTABA - SAE",
+    "codigoIbge": "3134202",
+    "codigoUnidade": "1"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 73,
+   "numeroControlePNCP": "17819061000188-1-000073/2026",
+   "objetoCompra": "Contratação de empresa especializada para a emissão de certificados digitais do tipo A1 e A3, armazenados em dispositivos USB criptografados lacrados, conforme os padrões da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).",
+   "valorTotalEstimado": 1055.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-01T10:06:38",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "18291377000102",
+    "razaoSocial": "MUNICIPIO DE CARMO DO CAJURU",
+    "poderId": "N",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Carmo do Cajuru",
+    "codigoIbge": "3114204",
+    "codigoUnidade": "02010",
+    "nomeUnidade": "ADMINISTRAÇÃO E RH"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 159,
+   "numeroControlePNCP": "18291377000102-1-000159/2026",
+   "objetoCompra": "Aquisição de material Esportivo para utilização no Serviço de Convivência e Fortalecimento de Vínculos,atendendo as necessidades da Secretaria Municipal de Promoção Social.",
+   "valorTotalEstimado": 5160.24,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-08-20T15:24:01",
+   "dataEncerramentoProposta": "2026-08-27T08:59:00",
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "19382647000153",
+    "razaoSocial": "MUNICIPIO DE GUARACIABA",
+    "poderId": "N",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "codigoIbge": "3128204",
+    "ufSigla": "MG",
+    "municipioNome": "Guaraciaba",
+    "nomeUnidade": "Unidade Única",
+    "codigoUnidade": "1924"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 369,
+   "numeroControlePNCP": "19382647000153-1-000369/2026",
+   "objetoCompra": "Aquisição de peças e prestação de serviços mecânicos para o veiculo placa: TWY7B72",
+   "valorTotalEstimado": 4820.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-18T11:44:51",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "04195466000140",
+    "razaoSocial": "CAMARA MUNICIPAL DE NOVA SERRANA",
+    "poderId": "L",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Nova Serrana",
+    "codigoIbge": "3145208",
+    "codigoUnidade": "010101",
+    "nomeUnidade": "Câmara Municipal"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 116,
+   "numeroControlePNCP": "04195466000140-1-000116/2026",
+   "objetoCompra": "Contratação de serviço de internet banda larga em atendimento às necessidades da Câmara Municipal.",
+   "valorTotalEstimado": 2359.56,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-08-14T17:58:23",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "00589501000155",
+    "razaoSocial": "CAMARA MUNICIPAL DE SANTANA DA VARGEM",
+    "poderId": "L",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Santana da Vargem",
+    "codigoUnidade": "001",
+    "nomeUnidade": "CAMARA MUNCIPAL DE SANTANA DA VARGEM - MG",
+    "codigoIbge": "3158300"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 29,
+   "numeroControlePNCP": "00589501000155-1-000029/2026",
+   "objetoCompra": "Prestação de serviços de apoio operacional à comunicação institucional, para atender às necessidades da Câmara Municipal de Santana da Vargem",
+   "valorTotalEstimado": 62434.2,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-22T09:03:30",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "21250048000128",
+    "razaoSocial": "SERVICO AUTONOMO DE AGUA E ESGOTO",
+    "poderId": "E",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Guanhães",
+    "codigoIbge": "3128006",
+    "codigoUnidade": "21250048000128-003",
+    "nomeUnidade": "SERVICO AUTONOMO DE AGUA E ESGOTO"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 49,
+   "numeroControlePNCP": "21250048000128-1-000049/2026",
+   "objetoCompra": "Contratação de empresa para a prestação de serviços de comunicação institucional.",
+   "valorTotalEstimado": 32100.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-07-28T07:59:20",
+   "dataEncerramentoProposta": "2026-07-31T17:00:00",
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "00394452000103",
+    "razaoSocial": "COMANDO DO EXERCITO",
+    "poderId": "E",
+    "esferaId": "F"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Juiz de Fora",
+    "codigoUnidade": "160110",
+    "nomeUnidade": "COLEGIO MILITAR DE JUIZ DE FORA",
+    "codigoIbge": "3136702"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 21304,
+   "numeroControlePNCP": "00394452000103-1-021304/2026",
+   "objetoCompra": "Contratação do serviço de fornecimento de 600 imagens tratada e editada em alta resolução em mídia digital para Diagramação da Revista Momentos de 2026",
+   "valorTotalEstimado": 8196.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-30T15:46:23",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "01613208000149",
+    "razaoSocial": "MUNICIPIO DE NAQUE",
+    "poderId": "N",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Naque",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE NAQUE (MG)",
+    "codigoIbge": "3144359",
+    "codigoUnidade": "1"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 57,
+   "numeroControlePNCP": "01613208000149-1-000057/2026",
+   "objetoCompra": "Locação de sistema web (SaaS) para gestão de documentos e processos digitais",
+   "valorTotalEstimado": 40320.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-18T15:11:39",
+   "dataEncerramentoProposta": "2026-09-24T08:50:00",
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "25223009000192",
+    "razaoSocial": "MUNICIPIO DE LONTRA",
+    "poderId": "N",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Lontra",
+    "codigoUnidade": "001",
+    "nomeUnidade": "MUNICIPIO DE LONTRA",
+    "codigoIbge": "3138658"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 83,
+   "numeroControlePNCP": "25223009000192-1-000083/2026",
+   "objetoCompra": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS EM ASSESSORIA, INCLUSÃO E GERENCIAMENTO DE DADOS PARA ELABORAÇÃO DE PRESTAÇÃO DE CONTAS NO SISTEMA DE GESTÃO DE PRESTAÇÃO DE CONTAS DO SIGPC- FNDE E BB ÁGIL PLATAFORMA MENSAL.",
+   "valorTotalEstimado": 62036.04,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-10-05T12:24:25",
+   "dataEncerramentoProposta": "2026-10-09T08:59:00",
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "18715516000188",
+    "razaoSocial": "MINAS GERAIS SECRETARIA DE ESTADO DA SAUDE",
+    "poderId": "E",
+    "esferaId": "E"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Belo Horizonte",
+    "nomeUnidade": "SG/NUCLEO DE COMPRAS DE SERVICOS/SES",
+    "codigoUnidade": "1321127",
+    "codigoIbge": "3106200"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 117,
+   "numeroControlePNCP": "18715516000188-1-000117/2026",
+   "objetoCompra": "contratação de serviços para desenvolvimento e manutenção do Sistema Integrado de Gerenciamento da Assistência Farmacêutica (SIGAF), ",
+   "valorTotalEstimado": 3692469.12,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-09T17:49:27",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, IX"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  }
+ ],
+ "totalRegistros": 23,
+ "totalPaginas": 2,
+ "numeroPagina": 1,
+ "paginasRestantes": 1,
+ "empty": false
+}

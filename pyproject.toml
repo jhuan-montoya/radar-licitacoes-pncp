@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "radar-licitacoes-pncp"
+version = "0.1.0"
+description = "Baixa contratações do PNCP, classifica por categoria/aderência e gera relatórios Markdown e CSV."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Jhuan Montoya" }]
+requires-python = ">=3.9"
+dependencies = ["pyyaml>=6.0"]
+
+[project.optional-dependencies]
+llm = ["anthropic>=0.40"]
+dev = ["pytest>=7.4"]
+
+[project.scripts]
+radar-pncp = "radar_pncp.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["tests"]

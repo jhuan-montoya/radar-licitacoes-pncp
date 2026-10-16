@@ -1,0 +1,328 @@
+{
+ "data": [
+  {
+   "orgaoEntidade": {
+    "cnpj": "18338129000170",
+    "razaoSocial": "MUNICIPIO DE BELMIRO BRAGA",
+    "poderId": "N",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Belmiro Braga",
+    "codigoUnidade": "1",
+    "nomeUnidade": "MUNICIPIO DE BELMIRO BRAGA",
+    "codigoIbge": "3106101"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 91,
+   "numeroControlePNCP": "18338129000170-1-000091/2026",
+   "objetoCompra": "CONTRATAÇÃO DE EMPRESA PARA MANUTENÇÃO PREVENTIVA E/OU CORRETIVA DOS EQUIPAMENTOS DE TRANSMISSÃO DE TV DIGITAL.",
+   "valorTotalEstimado": 25375.92,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-08T18:16:34",
+   "dataEncerramentoProposta": "2026-08-31T16:00:00",
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "37115474000199",
+    "razaoSocial": "CONSELHO REGIONAL DE PSICOLOGIA QUARTA REGIAO",
+    "poderId": "E",
+    "esferaId": "F"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Belo Horizonte",
+    "codigoUnidade": "926729",
+    "nomeUnidade": "CONSELHO REGIONAL DE PSICOLOGIA DA 4ª REGIÃO",
+    "codigoIbge": "3106200"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 39,
+   "numeroControlePNCP": "37115474000199-1-000039/2026",
+   "objetoCompra": "Serviço de fotógrafo para o 3º Congresso Mineiro de Psicologia",
+   "valorTotalEstimado": 2100.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-08-04T10:36:32",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "00509968000148",
+    "razaoSocial": "TRIBUNAL SUPERIOR DO TRABALHO",
+    "poderId": "J",
+    "esferaId": "F"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Belo Horizonte",
+    "nomeUnidade": "TRIBUNAL REGIONAL DO TRABALHO DA 3ª REGIÃO",
+    "codigoIbge": "3106200",
+    "codigoUnidade": "080008"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 3268,
+   "numeroControlePNCP": "00509968000148-1-003268/2026",
+   "objetoCompra": "Contratação de empresa especializada na prestação de serviços audiovisuais para a transmissão ao vivo da Solenidade da Ordem do Mérito Judiciário do Trabalho Desembargador Ari Rocha. ",
+   "valorTotalEstimado": 19000.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-25T15:28:25",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "18338178000102",
+    "razaoSocial": "MUNICIPIO DE JUIZ DE FORA",
+    "poderId": "N",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Juiz de Fora",
+    "codigoUnidade": "984733",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE JUIZ DE FORA - MG",
+    "codigoIbge": "3136702"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 287,
+   "numeroControlePNCP": "18338178000102-1-000287/2026",
+   "objetoCompra": "Dispensa n. 089/2026. Proc. Administrativo 7.946/2026. Contratação de sistema de inteligência artificial generativa. PGM",
+   "valorTotalEstimado": 40320.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-10-01T17:48:01",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "18659334000137",
+    "razaoSocial": "MUNICIPIO DE CAMPO BELO",
+    "poderId": "N",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Campo Belo",
+    "codigoIbge": "3111200",
+    "codigoUnidade": "984223",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE CAMPO BELO-MG"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 542,
+   "numeroControlePNCP": "18659334000137-1-000542/2026",
+   "objetoCompra": "Dispensa em razão de valor sem disputa para contratação do curso “WORKSHOP PRÁTICO DFD • ETP • Termo de Referência com Inteligência Artificial e ChatGPT Plus”, para os servidores da Secretaria Municipal de Saúde.",
+   "valorTotalEstimado": 4900.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-15T07:13:05",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "18310631000172",
+    "razaoSocial": "CAMARA MUNICIPAL DE JOAO MONLEVADE",
+    "poderId": "L",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "João Monlevade",
+    "codigoUnidade": "18310631000172",
+    "nomeUnidade": "CAMARA MUNICIPAL DE JOAO MONLEVADE - SIAFIC",
+    "codigoIbge": "3136207"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 79,
+   "numeroControlePNCP": "18310631000172-1-000079/2026",
+   "objetoCompra": "Curso Gestão e Fiscalização de Contratos Administrativos com Uso de Inteligência Artificial, que será realizado pelo Instituto Plenum, entre os dias 15102026 e 16102026. Para as servidoras: Ana Paula Fonseca, Clarice Cota e Silva e Marcilene Evangelista Dias.",
+   "valorTotalEstimado": 7470.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-10-09T16:25:33",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "86879319000154",
+    "razaoSocial": "FUNDO PREVIDENCIARIO DOS SERV.PUBLICOS MUNICIPAIS",
+    "poderId": "E",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Estrela do Indaiá",
+    "codigoUnidade": "031001",
+    "nomeUnidade": "FUNDOPREI",
+    "codigoIbge": "3124708"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 3,
+   "numeroControlePNCP": "86879319000154-1-000003/2026",
+   "objetoCompra": "CONTRATAÇÃO DE SERVIÇOS DE DESENVOLVIMENTO, HOSPEDAGEM, MANUTENÇÃO E ALIMENTAÇÃO DO SÍTIO ELETRÔNICO INSTITUCIONAL DO FUNDO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS MUNICIPAIS DE ESTRELA DO INDAIÁ-FUNDOPREI.",
+   "valorTotalEstimado": 14720.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-16T08:04:10",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "18310631000172",
+    "razaoSocial": "CAMARA MUNICIPAL DE JOAO MONLEVADE",
+    "poderId": "L",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "João Monlevade",
+    "codigoUnidade": "18310631000172",
+    "nomeUnidade": "CAMARA MUNICIPAL DE JOAO MONLEVADE - SIAFIC",
+    "codigoIbge": "3136207"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 75,
+   "numeroControlePNCP": "18310631000172-1-000075/2026",
+   "objetoCompra": "Contratação de servidorserviço de hospedagem destinado ao armazenamento, gerenciamento e disponibilização das caixas de correio eletrônico institucionais da Câmara Municipal de João Monlevade, utilizando o domínio institucional @joaomonlevade.mg.leg.br. ",
+   "valorTotalEstimado": 64991.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-24T10:55:25",
+   "dataEncerramentoProposta": "2026-09-30T08:30:00",
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "08715327000151",
+    "razaoSocial": "ESCOLA DE SAUDE PUBLICA DO ESTADO DE MINAS GERAIS",
+    "poderId": "E",
+    "esferaId": "E"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Belo Horizonte",
+    "nomeUnidade": "COMPRAS",
+    "codigoUnidade": "1541003",
+    "codigoIbge": "3106200"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 41,
+   "numeroControlePNCP": "08715327000151-1-000041/2026",
+   "objetoCompra": "CERTIFICADO DIGITAL DE SERVIDOR WEB SSL/TLS (AC) INTERNACIONAL - A1- DOMINIO UNICO - ORGANIZATION VALIDATION - OV\r\nSEI - 1540.01.0000527/2026-07\r\n",
+   "valorTotalEstimado": 768.9,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-09T16:40:43",
+   "dataEncerramentoProposta": "2026-09-15T08:00:05",
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "01729464000104",
+    "razaoSocial": "CAMARA MUNICIPAL DE SAO JOSE DA BARRA",
+    "poderId": "L",
+    "esferaId": "M"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "São José da Barra",
+    "nomeUnidade": "CAMARA MUNICIPAL DE SÃO JOSE DA BARRA",
+    "codigoUnidade": "01729464000104-001",
+    "codigoIbge": "3162948"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 31,
+   "numeroControlePNCP": "01729464000104-1-000031/2026",
+   "objetoCompra": "Contratação de empresa especializada para prestação continuada de serviços de Tecnologia da Informação e Comunicação (TIC)",
+   "valorTotalEstimado": 37800.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-09-14T10:07:16",
+   "dataEncerramentoProposta": "2026-09-14T10:00:00",
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  },
+  {
+   "orgaoEntidade": {
+    "cnpj": "18715565000110",
+    "razaoSocial": "MINAS GERAIS GABINETE MILITAR DO GOVERNADOR",
+    "poderId": "E",
+    "esferaId": "E"
+   },
+   "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Belo Horizonte",
+    "codigoUnidade": "1071030",
+    "nomeUnidade": "DAQ/GMG",
+    "codigoIbge": "3106200"
+   },
+   "anoCompra": 2026,
+   "sequencialCompra": 16,
+   "numeroControlePNCP": "18715565000110-1-000016/2026",
+   "objetoCompra": "Serviços de tecnologia da informação (Hospedagem em Infraestrutura Virtualizada) \r\nSEI nº 5140.01.0001937/2026-48",
+   "valorTotalEstimado": 35052.0,
+   "modalidadeId": 8,
+   "modalidadeNome": "Dispensa",
+   "dataPublicacaoPncp": "2026-07-31T14:56:39",
+   "dataEncerramentoProposta": null,
+   "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, IX"
+   },
+   "situacaoCompraNome": "Divulgada no PNCP"
+  }
+ ],
+ "totalRegistros": 23,
+ "totalPaginas": 2,
+ "numeroPagina": 2,
+ "paginasRestantes": 0,
+ "empty": false
+}

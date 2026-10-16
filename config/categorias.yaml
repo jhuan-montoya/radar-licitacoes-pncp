@@ -1,0 +1,173 @@
+# Categorias padrão: serviços de TI e comunicação digital contratados por órgãos públicos.
+# Sintaxe dos termos (sem acento, sem diferença de maiúsculas):
+#   termo   casa no início de uma palavra ("chatbot" casa "chatbots")
+#   termo$  exige fim de palavra ("ia$" não casa "iate")
+#   ^termo  ancora no início do objeto
+# Uma contratação recebe a categoria com mais termos distintos; empate vai para a primeira da lista.
+# 'aderencia' (alta|media|baixa) é um rótulo seu: quanto a categoria interessa a quem usa o radar.
+
+valor_minimo_confiavel: 100   # valores abaixo disso (sigilosos ou 0,01) ficam fora de mediana/soma
+
+categorias:
+  - id: chatbot_ia
+    nome: Chatbot, WhatsApp, IA
+    aderencia: alta
+    palavras_chave:
+      - chatbot
+      - chat bot
+      - whatsapp
+      - whats app
+      - inteligencia artificial
+      - ia$
+      - assistente virtual
+      - atendimento virtual
+      - atendimento digital
+      - ouvidoria digital
+      - automacao de
+
+  - id: site
+    nome: Site, portal, hospedagem, e-mail
+    aderencia: alta
+    palavras_chave:
+      - sitio eletronico
+      - site
+      - website
+      - portal institucional
+      - portal eletronico
+      - portal web
+      - hospedagem de site
+      - hospedagem em nuvem
+      - email corporativo
+      - email institucional
+      - registro de dominio
+
+  - id: redes_sociais
+    nome: Redes sociais, marketing digital, comunicação
+    aderencia: alta
+    palavras_chave:
+      - redes sociais
+      - midia social
+      - midias sociais
+      - midias digitais
+      - midia digital
+      - social media
+      - marketing
+      - comunicacao digital
+      - comunicacao institucional
+      - assessoria de comunicacao
+      - design grafico
+      - identidade visual
+
+  - id: sob_medida
+    nome: Desenvolvimento de sistema/aplicativo sob medida
+    aderencia: media
+    palavras_chave:
+      - desenvolvimento de sistema
+      - desenvolvimento de software
+      - desenvolvimento de aplicativo
+      - desenvolvimento de plataforma
+      - desenvolvimento de solucao
+      - aplicativo movel
+      - app para
+
+  - id: treinamento_ti
+    nome: Treinamento, oficina de informática, suporte de TI
+    aderencia: media
+    palavras_chave:
+      - oficina de informatica
+      - inclusao digital
+      - curso de informatica
+      - capacitacao em informatica
+      - capacitacao em tecnologia
+      - capacitacao em ferramentas
+      - suporte tecnico de informatica
+      - suporte tecnico em informatica
+      - servico de tecnologia da informacao
+      - servicos de tecnologia da informacao
+
+  - id: software_licenca
+    nome: Software/plataforma por licença
+    aderencia: baixa
+    palavras_chave:
+      - software
+      - sistema de gestao
+      - sistema informatizado
+      - sistema integrado
+      - sistema web
+      - sistema online
+      - plataforma digital
+      - plataforma web
+      - plataforma online
+      - solucao tecnologica
+      - licenca de uso
+      - licenciamento
+      - cessao de uso
+      - cessao de direito de uso
+      - saas
+      - em nuvem
+
+  - id: audiovisual
+    nome: Vídeo, foto, audiovisual
+    aderencia: baixa
+    palavras_chave:
+      - audiovisual
+      - video
+      - filmagem
+      - videomaker
+      - fotograf
+      - transmissao
+
+# Objetos que nada têm a ver com as categorias acima (aquisição de bens, obras, alimentação etc.).
+excluir_global:
+  - ^aquisicao
+  - ^compra
+  - ^registro de preco para aquisicao
+  - medicament
+  - veiculo
+  - ambulancia
+  - obra
+  - pavimenta
+  - reforma
+  - construcao
+  - merenda
+  - generos alimenticios
+  - pecas
+  - pneu
+  - combust
+  - hotel
+  - pousada
+  - pensao
+  - diaria
+  - hospedagem e alimentacao
+  - hospedagem local
+  - jornal
+  - radio
+  - televis
+  - emissora
+  - leiloeiro
+  - cartao
+  - vale alimentacao
+  - vale refeicao
+  - lanchonete
+  - agenciamento
+  - passagens
+  - telefonia
+  - reprografia
+  - relogio
+  - ponto eletronico
+  - catraca
+  - semaf
+  - radiocomunica
+  - videomonitoramento
+  - camera
+  - artista
+  - cantor
+  - banda
+  - musical
+  - laborat
+  - exame
+  - medic
+  - sonoriza
+  - buffet
+  - cerimonial
+  - smartphone
